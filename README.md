@@ -8,7 +8,7 @@
 2.) if you are an idiot and you can't do the step above, simply look at the code, then go to line 82, edit the "trans.png" and name it to whatever your file is called
 
 # why do the steps above?
-- that is only used for when you want the selfbot to change the server icon after you do the wizz command.
+- that is only used for when you want the selfbot to change the server icon after you do the wizz command, if you do not want that, simply remove the code which starts at line 83.
 
 
 
